@@ -3,7 +3,6 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/75498641/177029595-05dde787-4bf6-4222-a9c3-663005f70510.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sevgi-demir" alt="sevgi-demir" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
